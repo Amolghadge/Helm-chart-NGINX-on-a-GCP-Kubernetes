@@ -1,4 +1,4 @@
-name: Deploy NGINX to GKE
+name: Deploy NGINX to GKE cluster
 
 on:
   push:
