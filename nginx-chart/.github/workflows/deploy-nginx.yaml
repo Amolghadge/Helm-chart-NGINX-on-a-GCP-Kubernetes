@@ -9,8 +9,8 @@ on:
   workflow_dispatch:
 
 env:
-  PROJECT_ID: "regal-spark-464611-v3"
-  CLUSTER_NAME: nginx-helm-chart
+  PROJECT_ID: "ornate-producer-477604-s3"
+  CLUSTER_NAME: ornate-producer-477604-s3-gke1
   # GKE_CLUSTER: ${{ secrets.GKE_CLUSTER }}
   GKE_ZONE: "us-central1-a"
   RELEASE_NAME: nginx-release
